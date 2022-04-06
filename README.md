@@ -1,5 +1,3 @@
-# chat-web-socket
-
 # Design Patterns
 
 - Observer for chat
