@@ -4,7 +4,7 @@
         "es2021": true
     },
     "extends": [
-        "airbnb",
+        // "airbnb",
         "eslint:recommended",
         "plugin:@typescript-eslint/recommended"
     ],
@@ -17,5 +17,11 @@
         "@typescript-eslint"
     ],
     "rules": {
-    }
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ]
 }
