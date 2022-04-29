@@ -1,4 +1,4 @@
-# Chat
+# Terminal Chat
 
 Seja bem vindo(a) à terceira Semana Javascript Expert.
 
