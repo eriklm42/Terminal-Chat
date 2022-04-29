@@ -1,5 +1,5 @@
 export const constants = {
-    events: {
+    event: {
         MESSAGE: 'message',
         NEW_USER_CONNECTED: 'newUserConnected',
         DISCONNECT_USER: 'disconnectUser',

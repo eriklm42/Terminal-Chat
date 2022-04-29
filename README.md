@@ -1,25 +1,16 @@
-# Design Patterns
+# Semana-javascript-expert03
 
-- Observer for chat
-- Strategy because use two databases
-- Test data builder for tests
+Seja bem vindo(a) à terceira Semana Javascript Expert.
 
-# MVP
+Marque esse projeto com uma estrela 🌟
 
-- Send message
-- Send message for a group
--
+O código fonte completo de cada aula está dividido nas seguintes pastas:
 
-# V2
+- [Aula 01](./hacker-chat-aula01)
+- [Aula 02](./hacker-chat-aula02)
+- [Aula 03](./hacker-chat-aula03)
+- [Aula 04](./hacker-chat-aula04)
 
-- Send image
-- Send video
-- Send audio
+## Preview
 
-# Technologies
-
-- TypeScript
-- WebSocket (no libaries)
-- Docker
-- PostgressDB
-- MongoDB
+![project preview](./screen-semanajs03.jpg)
