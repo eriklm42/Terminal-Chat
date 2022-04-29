@@ -1,4 +1,4 @@
-# Semana-javascript-expert03
+# Chat
 
 Seja bem vindo(a) à terceira Semana Javascript Expert.
 
