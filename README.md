@@ -2,4 +2,4 @@
 
 ## Preview
 
-![project preview](./screen-semanajs03.jpg)
+![project preview](./preview.jpg)
