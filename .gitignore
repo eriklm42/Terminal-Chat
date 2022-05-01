@@ -1,0 +1,23 @@
+# Package Directories
+node_modules
+jspm_packages
+dist
+
+# Hidden Directories
+.vscode
+.idea
+.certs
+
+# Folder Files
+.DS_Store
+
+# IDE Config Folder
+!.idea
+
+yarn-error.log
+
+build
+src/services/backoffice/public/assets/
+
+export.csv
+exports/

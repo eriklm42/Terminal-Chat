@@ -1,5 +1,5 @@
 {
-  "name": "@eriklm42",
+  "name": "terminal-chat",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Erik Lucas Maros",
   "license": "ISC",
   "dependencies": {
     "blessed": "^0.1.81"
